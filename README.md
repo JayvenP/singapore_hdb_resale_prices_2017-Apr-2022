@@ -1,8 +1,8 @@
-# Data Visualization of Singapore HDB resale prices from 2017 January to 2022 April
+# Data Visualization of Singapore HDB resale prices from Janurary 2017 to April 2022
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-This project contains data visualizations of Singapore HDB resale prices from 2017 January to 2022 April
+This project contains data visualizations of Singapore HDB resale prices from Janurary 2017 to April 2022
 
 [Disclaimer] The dataset used for this project is taken from https://data.gov.sg/dataset/resale-flat-prices for exploring various data visualization types using plotly express and I do not own this dataset.
 
